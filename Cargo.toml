@@ -1,0 +1,16 @@
+[package]
+name = "rusty-daw-widgets"
+version = "0.0.0"
+authors = ["Billy Messenger <BillyDM@protonmail.com>"]
+edition = "2018"
+license = "GPL-3.0"
+keywords = ["audio", "daw", "ui", "analyzer", "meter"]
+categories = ["multimedia::audio", "gui"]
+description = "UI widgets for use in RustyDAW projects (placeholder)"
+documentation = "https://docs.rs/rusty-daw-widgets"
+repository = "https://github.com/RustyDAW/rusty-daw-widgets"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
